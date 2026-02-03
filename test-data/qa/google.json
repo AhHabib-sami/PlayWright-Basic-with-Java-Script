@@ -1,0 +1,7 @@
+{
+    "ModuleTestName": {
+        "skill1": "playwright tutorial",
+        "skill2": "cypress",
+        "skill3":"selenium"
+    }
+}
