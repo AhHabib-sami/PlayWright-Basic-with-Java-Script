@@ -1,5 +1,11 @@
 {
-    "ModuleTestName": {
+    "QAModuleTestName": {
+        "skill1": "playwright tutorial",
+        "skill2": "cypress",
+        "skill3":"selenium"
+    },
+
+    "QATestData": {
         "skill1": "playwright tutorial",
         "skill2": "cypress",
         "skill3":"selenium"

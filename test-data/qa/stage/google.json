@@ -1,0 +1,13 @@
+{
+    "StageModuleTestName": {
+        "skill1": "playwright tutorial",
+        "skill2": "cypress",
+        "skill3":"selenium"
+    },
+
+    "StageQATestData": {
+        "skill1": "API Testing tutorial",
+        "skill2": "NPM package",
+        "skill3":"Ahsan Habib Sami"
+    }
+}
